@@ -1,4 +1,4 @@
-# The Craft of Digitization - Ser Bhum Brewery
+# Odoo Inventory Digitisation Project
 Repository: Digitization-with-Odoo
 
 # Overview
